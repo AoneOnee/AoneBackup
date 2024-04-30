@@ -22,4 +22,4 @@ gfpgan==1.3.8
 torch==2.2.1  # Perbarui ke versi ini untuk kompatibilitas dengan torchaudio dan torchtext.
 torchaudio==2.2.1+cu118  # Pastikan versi ini kompatibel dengan torch.
 torchtext==0.17.1  # Pastikan versi ini kompatibel dengan torch.
-typing-extensions==4.6.1  # Perbarui ke versi ini untuk kompatibilitas dengan pydantic dan sqlalchemy.
+typing-extensions==4.8.0  # Perbarui ke versi ini untuk kompatibilitas dengan pydantic dan sqlalchemy.
